@@ -1,5 +1,5 @@
 #pragma once
-namespace CaveOfProgramming {
+namespace NogaAvrProj {
 
 	struct Particle
 	{
