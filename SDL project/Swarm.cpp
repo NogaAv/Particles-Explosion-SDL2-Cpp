@@ -1,5 +1,5 @@
 #include "Swarm.h"
-namespace CaveOfProgramming {
+namespace NogaAvrProj {
 
 	Swarm::Swarm():m_lasTime(0){
 
