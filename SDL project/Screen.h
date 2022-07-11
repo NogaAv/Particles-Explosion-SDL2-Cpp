@@ -4,7 +4,7 @@
 
 using namespace std;
 
-namespace CaveOfProgramming {
+namespace NogaAvrProj {
 
 	class Screen
 	{
