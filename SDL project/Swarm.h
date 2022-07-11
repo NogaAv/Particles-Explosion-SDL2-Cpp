@@ -1,7 +1,7 @@
 #pragma once
 #include "Particle.h"
 
-namespace CaveOfProgramming {
+namespace NogaAvrProj {
 	class Swarm
 	{
 	public:
