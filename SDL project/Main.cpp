@@ -7,7 +7,7 @@
 #include "Swarm.h"
 
 using namespace std;
-using namespace CaveOfProgramming;
+using namespace NogaAvrProj;
 
 int main(int argc, char* argv[])
 {
