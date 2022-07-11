@@ -2,7 +2,7 @@
 #include "Screen.h"
 #include <cstring>
 
-namespace CaveOfProgramming {
+namespace NogaAvrProj {
 
 
 	Screen::Screen():
